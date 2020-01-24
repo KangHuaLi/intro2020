@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Cheng-Che Lee (SunnerLi)</title>
+    <link>https://KangHuaLi.github.io/intro2020/authors/</link>
+      <atom:link href="https://KangHuaLi.github.io/intro2020/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://KangHuaLi.github.io/intro2020/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://KangHuaLi.github.io/intro2020/authors/</link>
+    </image>
+    
+    <item>
+      <title>&lt;b&gt;Cheng-Che Lee&lt;/b&gt;</title>
+      <link>https://KangHuaLi.github.io/intro2020/authors/bcheng-che-lee/b/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/authors/bcheng-che-lee/b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Li Su</title>
+      <link>https://KangHuaLi.github.io/intro2020/authors/li-su/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/authors/li-su/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wan-Yi Lin*</title>
+      <link>https://KangHuaLi.github.io/intro2020/authors/wan-yi-lin/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/authors/wan-yi-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yen-Ting Shih</title>
+      <link>https://KangHuaLi.github.io/intro2020/authors/yen-ting-shih/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/authors/yen-ting-shih/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shuian-Kai Kao</title>
+      <link>https://KangHuaLi.github.io/intro2020/authors/shuian-kai-kao/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/authors/shuian-kai-kao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei-Chen Chiu</title>
+      <link>https://KangHuaLi.github.io/intro2020/authors/wei-chen-chiu/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/authors/wei-chen-chiu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bor-Shing Lin</title>
+      <link>https://KangHuaLi.github.io/intro2020/authors/bor-shing-lin/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/authors/bor-shing-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pei-Ying Chiang</title>
+      <link>https://KangHuaLi.github.io/intro2020/authors/pei-ying-chiang/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/authors/pei-ying-chiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://KangHuaLi.github.io/intro2020/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/authors/admin/</guid>
+      <description>&lt;p&gt;I join the MediaTek as Computer Vision and Deep Learning Research Engineer in winter, 2019. My research interests include &lt;strong&gt;deep learning&lt;/strong&gt; and &lt;strong&gt;generative model&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;During my colleage, I join the research team of Embedded System and Application Lab (ESA-Lab) which is host by &lt;a href=&#34;http://web.ntpu.edu.tw/~bslin/&#34;&gt;Prof. Bor-Shing Lin&lt;/a&gt;. The research topic I consider is the deep learning object recognition system. During my graduate studeis, I work on image-to-image translation with &lt;a href=&#34;https://www.cs.nctu.edu.tw/members/detail/ytc&#34;&gt;Prof. Yu-Tai Ching&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In the meanwhile, I had the experience to do the research and cooperated with the &lt;a href=&#34;https://walonchiu.github.io/&#34;&gt;Prof. Wei-Chen Chiu&lt;/a&gt; who is the leader of Enriched Vision Applications Lab (EVA-Lab). Finally, I also investigated some research topic on music with &lt;a href=&#34;https://www.iis.sinica.edu.tw/pages/lisu/index_en.html&#34;&gt;Dr. Li Su&lt;/a&gt; at National Tsing Hua University.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To fullfill my career goal, I am finding any AI research cooperation oppertunity within my research interests.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generative Model | Cheng-Che Lee (SunnerLi)</title>
+    <link>https://KangHuaLi.github.io/intro2020/tags/generative-model/</link>
+      <atom:link href="https://KangHuaLi.github.io/intro2020/tags/generative-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Generative Model</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://KangHuaLi.github.io/intro2020/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Generative Model</title>
+      <link>https://KangHuaLi.github.io/intro2020/tags/generative-model/</link>
+    </image>
+    
+    <item>
+      <title>Anoymous Title</title>
+      <link>https://KangHuaLi.github.io/intro2020/publication/su2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/publication/su2019/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anoymous Title</title>
+      <link>https://KangHuaLi.github.io/intro2020/publication/chiu2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/publication/chiu2019/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>StyleGAN demo</title>
+      <link>https://KangHuaLi.github.io/intro2020/project/stylegan_demo/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/project/stylegan_demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IntroVAE-PyTorch</title>
+      <link>https://KangHuaLi.github.io/intro2020/project/introvae-pytorch/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/project/introvae-pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RecycleGAN</title>
+      <link>https://KangHuaLi.github.io/intro2020/project/recyclegan/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/project/recyclegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RelativisticGAN_Demo</title>
+      <link>https://KangHuaLi.github.io/intro2020/project/relativisticgan_demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/project/relativisticgan_demo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

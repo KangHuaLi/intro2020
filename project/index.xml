@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Cheng-Che Lee (SunnerLi)</title>
+    <link>https://KangHuaLi.github.io/intro2020/project/</link>
+      <atom:link href="https://KangHuaLi.github.io/intro2020/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://KangHuaLi.github.io/intro2020/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://KangHuaLi.github.io/intro2020/project/</link>
+    </image>
+    
+    <item>
+      <title>StyleGAN demo</title>
+      <link>https://KangHuaLi.github.io/intro2020/project/stylegan_demo/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/project/stylegan_demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepFuse.pytorch</title>
+      <link>https://KangHuaLi.github.io/intro2020/project/deepfuse.pytorch/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/project/deepfuse.pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easy-Guide</title>
+      <link>https://KangHuaLi.github.io/intro2020/project/easy-guide/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/project/easy-guide/</guid>
+      <description>&lt;p&gt;This is the graduate project of our college. This system can serve the people that tell them what it is in front of the road. The user can open the app and hold it toward the front. At the same time, the phone would try to connect to the server. The phone would keep catching the image of the front, and send to the server. Next, the server would use image processing algorithm to recognize the distance, direction and type of the obstacle. At last, the result would be sent back and tell the user.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GANomaly2D</title>
+      <link>https://KangHuaLi.github.io/intro2020/project/ganomaly2d/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/project/ganomaly2d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Griffin-Lim-Pytorch</title>
+      <link>https://KangHuaLi.github.io/intro2020/project/griffin-lim-pytorch/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/project/griffin-lim-pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IntroVAE-PyTorch</title>
+      <link>https://KangHuaLi.github.io/intro2020/project/introvae-pytorch/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/project/introvae-pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P-Conv</title>
+      <link>https://KangHuaLi.github.io/intro2020/project/p-conv/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/project/p-conv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RecycleGAN</title>
+      <link>https://KangHuaLi.github.io/intro2020/project/recyclegan/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/project/recyclegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RelativisticGAN_Demo</title>
+      <link>https://KangHuaLi.github.io/intro2020/project/relativisticgan_demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/project/relativisticgan_demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVS-UNet-PyTorch</title>
+      <link>https://KangHuaLi.github.io/intro2020/project/svs-unet-pytorch/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/project/svs-unet-pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Torchvision_sunner</title>
+      <link>https://KangHuaLi.github.io/intro2020/project/torchvision_sunner/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/project/torchvision_sunner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tqdm_table</title>
+      <link>https://KangHuaLi.github.io/intro2020/project/tqdm_table/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://KangHuaLi.github.io/intro2020/project/tqdm_table/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
